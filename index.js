@@ -3,6 +3,7 @@ function isValid(params) {
 }
 
 const h = "Tutankamon"          
+const f = "Cerbero"          
 
 if (isValid()) {
     console.log('holaass')
